@@ -160,8 +160,8 @@ public class SceneEntryFragment extends Fragment {
             content.put("account_id", VolcConstants.ACCOUNT_ID);
             content.put("vod_space", VolcConstants.VOD_SPACE);
 
-            content.put("content_partner", VolcConstants.FEED_SHARE_CONTENT_PARTNER);
-            content.put("content_category", VolcConstants.FEED_SHARE_CONTENT_CATEGORY);
+            //content.put("content_partner", VolcConstants.FEED_SHARE_CONTENT_PARTNER);
+            //content.put("content_category", VolcConstants.FEED_SHARE_CONTENT_CATEGORY);
 
             JSONObject params = new JSONObject();
             params.put("event_name", "setAppInfo");

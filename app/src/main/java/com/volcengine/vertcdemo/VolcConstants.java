@@ -38,9 +38,9 @@ public class VolcConstants {
     /**
      * 一起看的合作方标识，对应控制台创建应用后生成的“渠道号“
      */
-    public static final String FEED_SHARE_CONTENT_PARTNER = com.volcengine.vertcdemo.feedshare.BuildConfig.FEED_SHARE_CONTENT_PARTNER;
+    //public static final String FEED_SHARE_CONTENT_PARTNER = com.volcengine.vertcdemo.feedshare.BuildConfig.FEED_SHARE_CONTENT_PARTNER;
     /**
      * 一起看的频道category
      */
-    public static final String FEED_SHARE_CONTENT_CATEGORY = com.volcengine.vertcdemo.feedshare.BuildConfig.FEED_SHARE_CONTENT_CATEGORY;
+    //public static final String FEED_SHARE_CONTENT_CATEGORY = com.volcengine.vertcdemo.feedshare.BuildConfig.FEED_SHARE_CONTENT_CATEGORY;
 }
